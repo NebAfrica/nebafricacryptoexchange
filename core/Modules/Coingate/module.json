@@ -1,0 +1,11 @@
+{
+    "name": "Coingate",
+    "alias": "coingate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Coingate\\Providers\\CoingateServiceProvider"
+    ],
+    "files": []
+}

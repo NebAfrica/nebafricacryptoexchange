@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/vendor
+/storage/app/logs
+/storage/app/logs/laravel.log
+.env
+.env.backup
+.phpunit.result.cache
+tailwind.config.js
+input.css
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode

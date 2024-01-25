@@ -1,0 +1,11 @@
+{
+    "name": "P2pTransfer",
+    "alias": "p2ptransfer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\P2pTransfer\\Providers\\P2pTransferServiceProvider"
+    ],
+    "files": []
+}

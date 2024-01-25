@@ -1,0 +1,19 @@
+{
+    "CryptoTrading": true,
+    "ManualDeposit": true,
+    "AuthorizeNet": true,
+    "PayPal": true,
+    "Stripe": false,
+    "RazorPay": true,
+    "Flutterwave": true,
+    "Coingate": true,
+    "Cashmaal": true,
+    "Coinbase": true,
+    "Monnify": true,
+    "SupportTicket": true,
+    "KYC": true,
+    "P2pTransfer": true,
+    "CryptoLoan": true,
+    "Updater": true,
+    "Nft": true
+}

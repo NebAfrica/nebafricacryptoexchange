@@ -1,0 +1,14 @@
+/node_modules
+/public/assets/deposit-methods
+/vendor
+.env
+.env.backupg
+.phpunit.result.cache
+tailwind.config.js
+input.css
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode

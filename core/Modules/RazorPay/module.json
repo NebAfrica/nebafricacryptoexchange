@@ -1,0 +1,11 @@
+{
+    "name": "RazorPay",
+    "alias": "razorpay",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RazorPay\\Providers\\RazorPayServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CryptoLoan",
+    "alias": "cryptoloan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CryptoLoan\\Providers\\CryptoLoanServiceProvider"
+    ],
+    "files": []
+}

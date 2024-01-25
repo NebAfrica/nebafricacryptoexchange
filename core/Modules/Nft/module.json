@@ -1,0 +1,11 @@
+{
+    "name": "Nft",
+    "alias": "nft",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Nft\\Providers\\NftServiceProvider"
+    ],
+    "files": []
+}

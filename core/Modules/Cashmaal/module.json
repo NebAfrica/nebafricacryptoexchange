@@ -1,0 +1,11 @@
+{
+    "name": "Cashmaal",
+    "alias": "cashmaal",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Cashmaal\\Providers\\CashmaalServiceProvider"
+    ],
+    "files": []
+}

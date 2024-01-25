@@ -1,0 +1,11 @@
+{
+    "name": "CryptoTrading",
+    "alias": "cryptotrading",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CryptoTrading\\Providers\\CryptoTradingServiceProvider"
+    ],
+    "files": []
+}

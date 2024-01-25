@@ -1,0 +1,11 @@
+{
+    "name": "Coinbase",
+    "alias": "coinbase",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Coinbase\\Providers\\CoinbaseServiceProvider"
+    ],
+    "files": []
+}

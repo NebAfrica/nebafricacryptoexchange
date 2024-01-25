@@ -1,0 +1,11 @@
+{
+    "name": "AuthorizeNet",
+    "alias": "authorizenet",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AuthorizeNet\\Providers\\AuthorizeNetServiceProvider"
+    ],
+    "files": []
+}
